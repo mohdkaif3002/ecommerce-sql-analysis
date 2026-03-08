@@ -1,0 +1,21 @@
+# 📊 Key Findings — Olist E-Commerce Analysis
+
+## Sales & Revenue
+- Revenue grew 20x from R$46K (Oct 2016) to R$1.1M+ (2018)
+- November 2017 was peak month at R$1.15M (Black Friday)
+- Top 3 categories: Bed & Bath, Health & Beauty, Computers & Accessories
+
+## Customer Behaviour
+- 96.88% of customers are one-time buyers
+- São Paulo has highest volume — 39,155 customers, R$5.77M revenue
+- Bahia has highest revenue per customer at R$187
+
+## Delivery & Operations
+- Average actual delivery: 12.6 days vs estimated 23.7 days
+- Olist delivers 11.2 days earlier than promised on average
+- Worst sellers have 35%+ late delivery rates
+
+## Advanced Analysis
+- Used LAG() for month-over-month revenue growth
+- Used RANK() OVER PARTITION to rank sellers by category
+- Office Furniture top seller generated R$468K alone
