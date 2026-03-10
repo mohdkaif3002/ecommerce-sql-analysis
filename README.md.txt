@@ -55,3 +55,6 @@ ecommerce-sql-analysis/
 2. Run `load_data.py` to load CSVs into SQLite
 3. Open `olist_ecommerce.db` in DB Browser for SQLite
 4. Run queries from the `sql/` folder
+
+## 🔗 Connect
+[LinkedIn](https://linkedin.com/in/mohammad-kaif-4b45b6290)
